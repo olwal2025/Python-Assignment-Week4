@@ -1,10 +1,10 @@
 def read_user_file():
-    filename = input("📂 Enter the name of the file to read (e.g., input.txt): ")
+    filename = input("Enter the name of the file to read (e.g., input.txt): ")
 
     try:
         with open(filename, 'r') as f:
             content = f.read()
-            print("\n📄 File Content:")
+            print("\n File Content:")
             print("----------------------------")
             print(content)
             print("----------------------------")
