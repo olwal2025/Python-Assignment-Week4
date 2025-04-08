@@ -48,14 +48,6 @@ python error_handling.py
 ```
 (Then try entering: existing files, non-existent files, directory names or 'quit')
 
-## Assignment Requirements Met
-
-✅ File Read & Write Challenge  
-✅ Error Handling Lab  
-✅ Robust exception handling  
-✅ User-friendly error messages  
-✅ Interactive program implementation
-
 ## Example Outputs
 
 **Successful file processing:**
