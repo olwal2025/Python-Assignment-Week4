@@ -1,0 +1,5 @@
+Python is powerful and awesome.
+Handling files is very useful.
+Practice makes perfect.
+Learning never stops.
+Errors can be handled gracefully.
